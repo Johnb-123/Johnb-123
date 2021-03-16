@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Johnb-123
-- 👀 I’m interested in Python, Linux and looking to get my CCNA and Sec+ certificates
-- 🌱 I’m currently learning Programming Python by Mark Lutz while working on beginner projects in python. Im also studying the basics of the liux command line
-- 💞️ I’m looking to collaborate on small beginner python projects.
+- 👀 My interests involve learning different technologies for the purpose of Security Analysis and programming. 
+- 🌱 Im currently studying for my Business Degree, while also studying for my CCNA and have some hobbies such Python Programming and learning how computers work. 
+- 💞️ I’m looking to learn the basics first before collaborating on small projects. 
 - 📫 How to reach me: email provided on my profile.
 
 <!---
